@@ -4,13 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<<<<<<< HEAD
     <title>Escala</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
         crossorigin="anonymous">
-=======
     <title>Escala Missas</title>
 
 <head>
@@ -50,7 +48,6 @@ li a:hover {
   background-color: #4CAF50;
 }
 </style>
->>>>>>> 7dd35c7fa9df4a8f70339cc364b133d142930a97
 </head>
 <body>
 
@@ -60,7 +57,7 @@ li a:hover {
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#ministros">Ministros</a></li>
+  <li><a href="/ministros/index">Ministros</a></li>
   <li><a href="#Contato">Contato</a></li>
 </ul>
 
