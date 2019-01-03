@@ -8,8 +8,8 @@ class MinistrosController extends Controller
 {
     public function index()
     {
-       // $ministros = ministro::all();
-        return view('ministros.index', compact('ministros'));
+       $ministros = ministro::all();
+        return view('ministros.ministros');
     }
     
 
