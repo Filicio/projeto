@@ -52,7 +52,7 @@ li a.active {
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="/ministros/index">Ministros</a></li>
+  <li><a href="/ministros">Ministros</a></li>
   <li><a href="#Contato">Contato</a></li>
 </ul>
 
