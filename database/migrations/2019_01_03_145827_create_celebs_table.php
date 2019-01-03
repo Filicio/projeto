@@ -15,7 +15,8 @@ class CreateCelebsTable extends Migration
     {
         Schema::create('celebs', function (Blueprint $table) {
             $table->increments('id');
-            $table->timestamps();
+            $table->date("data");
+            $table->string("tipo");
         });
     }
 
