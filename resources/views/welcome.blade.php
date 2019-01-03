@@ -7,6 +7,6 @@
     <title>Escala</title>
 </head>
 <body>
-  <h1>Espaço para a tabela de escalass</h1>
+  <h1>Espaço para a tabela de escalas</h1>
 </body>
 </html>
